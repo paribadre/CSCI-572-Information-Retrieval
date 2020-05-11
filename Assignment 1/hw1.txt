@@ -1,0 +1,15 @@
+Name: Parinita Badre
+USC ID: 8804379764
+USC email id: badre@usc.edu
+Date: 02/03/2020
+Search engine: Ask
+
+				IR ASSIGNMENT 1
+
+
+The overlap percentage between Google and Ask is about 59% on average. The Spearman's rank correlation coefficient is -1.2 on average. The negative correlation indicates that the ranks of the overlapping websites corresponds to a decreasing monotonic trend. The ranks are opposed, if a website gets a low (high priority) rank on Google, it may get a higher (low priority) rank on Ask and vice versa. The relationship between these ranks is not linear.
+
+A perfect negative correlation of -1 would indicate that a pair of URLs have the opposite ranks on each engine (2 URLs with ranks 2 and 8 on Google, would have ranks 8 and 2 on Ask respectively). With a correlation of -1.2, the ranks are not exactly opposed but rather, shows a tendency to have the opposite ranks. 
+
+The ranks of the results of the search engines are determined by their respective algorithms. Both the engines use similar algorithms to obtain the search results (indicated by high overlap) but different ones to rank their importance (due to negative spearman correlation coefficient). Google uses it's own algorithm, PageRank to rank pages. This depends on frequency and location of words, how long the page existed, other important pages linked to it, etc. and uses this to assign link weightage. Ask also uses a similar link analysis algorithm - HITS which only factors in the hyperlink weightage for each page. It is processed on a small subset of ‘relevant’ documents, not all documents as with PageRank. This could be the reason why the search engines have a high overlap but the rankings are different.
+
