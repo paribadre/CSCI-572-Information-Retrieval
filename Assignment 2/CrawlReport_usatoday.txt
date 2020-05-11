@@ -1,0 +1,45 @@
+Name: Parinita Badre
+USC ID: 8804379764
+
+Assignment 2
+============
+News site crawled: https://www.usatoday.com
+Number of threads/crawlers used: 7
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 16322
+# fetches failed or aborted: 3678
+
+Outgoing URLs:
+=============
+Total URLs extracted: 2698615
+# unique URLs extracted: 733988
+# unique URLs within News Site: 569113
+# unique URLs outside News Site: 164875
+
+Status Codes:
+============
+200 OK: 16322
+301 Moved Permanently: 3064
+302 Found: 13
+303 See Other: 517
+307 Temporary Redirect: 7
+404 Not Found: 15
+500 Internal Server Error: 21
+502 Bad Gateway: 41
+
+File Sizes:
+==========
+<1KB: 0
+1KB ~ <10KB: 4
+10KB ~ <100KB: 1293
+100KB ~ <1MB: 14983
+>=1MB: 42
+
+Content Types:
+=============
+text/html: 16320
+image/svg+xml: 2
+
